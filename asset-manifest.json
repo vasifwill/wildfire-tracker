@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wildfire-tracker/static/css/main.494bf9c8.chunk.css",
+    "main.js": "/wildfire-tracker/static/js/main.92ea1802.chunk.js",
+    "main.js.map": "/wildfire-tracker/static/js/main.92ea1802.chunk.js.map",
+    "runtime-main.js": "/wildfire-tracker/static/js/runtime-main.512b053c.js",
+    "runtime-main.js.map": "/wildfire-tracker/static/js/runtime-main.512b053c.js.map",
+    "static/js/2.4195baad.chunk.js": "/wildfire-tracker/static/js/2.4195baad.chunk.js",
+    "static/js/2.4195baad.chunk.js.map": "/wildfire-tracker/static/js/2.4195baad.chunk.js.map",
+    "static/js/3.ade20fd9.chunk.js": "/wildfire-tracker/static/js/3.ade20fd9.chunk.js",
+    "static/js/3.ade20fd9.chunk.js.map": "/wildfire-tracker/static/js/3.ade20fd9.chunk.js.map",
+    "index.html": "/wildfire-tracker/index.html",
+    "static/css/main.494bf9c8.chunk.css.map": "/wildfire-tracker/static/css/main.494bf9c8.chunk.css.map",
+    "static/js/2.4195baad.chunk.js.LICENSE.txt": "/wildfire-tracker/static/js/2.4195baad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.512b053c.js",
+    "static/js/2.4195baad.chunk.js",
+    "static/css/main.494bf9c8.chunk.css",
+    "static/js/main.92ea1802.chunk.js"
+  ]
+}
